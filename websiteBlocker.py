@@ -5,8 +5,8 @@ redirect = "127.0.0.1"
 
 website_list=["facebook.com","www.facebook.com","www.instagram.com"]
 
-start_date = datetime(2020,4,24)
-end_date = datetime(2020,4,23) 
+start_date = datetime(2022,4,24)
+end_date = datetime(2022,4,23) 
 today_date = datetime(datetime.now().year,datetime.now().month,datetime.now().day)
 
 while True:
